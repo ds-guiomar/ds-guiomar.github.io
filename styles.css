@@ -29,7 +29,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .header-link { flex: 0 0 auto; border: 1px solid #d9c5e7; border-radius: 999px; padding: 9px 12px; color: var(--purple); font-size: 11px; font-weight: 750; background: #fbf8fd; }
 .header-link span { color: var(--purple-soft); margin-left: 4px; }
 
-.hero { padding: 49px 0 28px; }
+.hero { padding: 49px 0 12px; }
 .eyebrow { display: inline-flex; align-items: center; gap: 7px; color: var(--purple); font-size: 9px; font-weight: 800; letter-spacing: .15em; }
 .eyebrow i { width: 7px; height: 7px; display: inline-block; border-radius: 50%; background: #7621a8; }
 h1, h2, h3, p { margin-top: 0; }
