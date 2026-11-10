@@ -1,0 +1,32 @@
+SITE — DESENVOLVIMENTO DE SISTEMAS | EEEP GUIOMAR BELCHIOR AGUIAR
+
+VERSÃO SIMPLIFICADA, MOBILE-FIRST — PALETA CLARA
+
+ARQUIVOS
+- index.html: conteúdo e estrutura do site.
+- styles.css: visual, cores e layout responsivo.
+- script.js: galeria de projetos.
+- assets/logo-ds-guiomar.png: logotipo.
+
+PUBLICAÇÃO
+Envie a pasta inteira para a hospedagem, mantendo a estrutura. O arquivo inicial é index.html.
+O site é estático: não precisa de backend, banco de dados ou dependências.
+
+COMO ADICIONAR PROJETOS
+1. Copie a foto para a pasta assets/.
+2. Abra script.js e localize a lista `projects`.
+3. Adicione um objeto neste formato:
+
+{
+  title: "Nome do projeto",
+  category: "Robótica",
+  description: "Uma frase contando o que os estudantes criaram.",
+  image: "assets/foto-do-projeto.jpg"
+}
+
+Para adicionar mais projetos, separe os objetos por vírgula.
+
+DADOS PARA REVISAR
+- Endereço informado: Rodovia CE-183, s/n — Cariré Velho, Cariré–CE.
+- Telefone informado: (88) 3646-1174.
+- Links de ingresso: SEDUC-CE e CREDE 06. Confira os links e as instruções do edital vigente antes de cada campanha.
